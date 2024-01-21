@@ -39,7 +39,6 @@ Database Management Systems:
 
 Version Control Systems:
  Tools like Git and GitHub enable version control and collaboration, allowing multiple developers to work together, track changes and manage code repositories
- 
 Deployment Platforms:
 Once the model is ready for production, it can be deployed on cloud platforms, edge devices, or web servers, depending on the specific requirements .
 
